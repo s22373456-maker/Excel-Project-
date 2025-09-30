@@ -26,21 +26,17 @@ Step by step guide:
 # example if Python
 python main.py arg1 arg2
 
+<h1 align="center">Hi 👋, I'm L.Venkata Sai</h1>
+<h3 align="center">A passionate data analyst from India</h3>
 
-Hi 👋, I'm L.Venkata Sai
-A passionate data analyst from India
-🔭 I’m currently working on Bike Sales
+- 🔭 I’m currently working on **Bike Sales Dashboard **
 
-🌱 I’m currently learning PYTHON,SQL AND EXCEL
+- 🌱 I’m currently learning **PYTHON,SQL AND EXCEL**
 
-Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Languages and Tools:
-Excel
-
-# Bike Sales Analysis 🚴‍♂️
-
-## Run the Project
-```bash
-python main.py arg1 arg2
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 

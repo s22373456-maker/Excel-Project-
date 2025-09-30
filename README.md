@@ -25,3 +25,15 @@ Step by step guide:
 ```bash
 # example if Python
 python main.py arg1 arg2
+
+
+Hi 👋, I'm L.Venkata Sai
+A passionate data analyst from India
+🔭 I’m currently working on Bike Sales
+
+🌱 I’m currently learning PYTHON,SQL AND EXCEL
+
+Connect with me:
+
+Languages and Tools:
+Excel

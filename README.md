@@ -37,3 +37,10 @@ Connect with me:
 
 Languages and Tools:
 Excel
+
+# Bike Sales Analysis 🚴‍♂️
+
+## Run the Project
+```bash
+python main.py arg1 arg2
+
